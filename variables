@@ -1,0 +1,5 @@
+num_of_home_works = 12
+num_of_hours = 1.5
+course_name = 'Python'
+time_to_work = num_of_hours / num_of_home_works
+print(f"Курс: {course_name}, всего задач: {num_of_home_works}, затрачено часов: {num_of_hours}, среднее время выполнения: {time_to_work}")
